@@ -927,11 +927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+      "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
       "projectName": "MultiThreading.Task6.Continuation",
-      "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+      "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
       "packagesPath": "C:\\Users\\Serdar_Filik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task6.Continuation\\obj\\",
+      "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task6.Continuation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serdar_Filik\\AppData\\Roaming\\NuGet\\NuGet.Config",

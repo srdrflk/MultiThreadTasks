@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {}
+    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {
+    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+        "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
         "projectName": "MultiThreading.Task5.Threads.SharedCollection",
-        "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+        "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
         "packagesPath": "C:\\Users\\Serdar_Filik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\obj\\",
+        "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task5.Threads.SharedCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serdar_Filik\\AppData\\Roaming\\NuGet\\NuGet.Config",

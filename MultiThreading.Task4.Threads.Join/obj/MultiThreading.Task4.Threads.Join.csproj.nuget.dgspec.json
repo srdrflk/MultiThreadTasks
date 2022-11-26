@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {}
+    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {
+    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+        "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
         "projectName": "MultiThreading.Task4.Threads.Join",
-        "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+        "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
         "packagesPath": "C:\\Users\\Serdar_Filik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\obj\\",
+        "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task4.Threads.Join\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serdar_Filik\\AppData\\Roaming\\NuGet\\NuGet.Config",

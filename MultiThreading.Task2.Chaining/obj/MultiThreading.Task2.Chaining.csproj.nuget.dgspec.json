@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {}
+    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {
+    "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+        "projectUniqueName": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
         "projectName": "MultiThreading.Task2.Chaining",
-        "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+        "projectPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
         "packagesPath": "C:\\Users\\Serdar_Filik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\obj\\",
+        "outputPath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task2.Chaining\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serdar_Filik\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eawb7V8HismsXuKo6lJxvz/s4U4HYyVYYHSkPBBBn+VwRF7TODn55EVhmEFOBbAtfcKRQRT5+nxbd7bS/vD2yw==",
+  "dgSpecHash": "TWYYTORaa1HIzmFoUkWfHCq6PUM+PJoWdH3Pah9SOQGA844srVVQKJTPyvQ3X2TTKbvw5SgNBZuum10ZO7RB6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+  "projectFilePath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

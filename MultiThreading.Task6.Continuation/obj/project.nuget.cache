@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sxzWe0LDpvP784gPu26sJF/8LlMRXQUSXcn88cQLNBXhQddGvVhRF+YYT01OGGNOCLwAqxcBGwq21mMz6cf2lg==",
+  "dgSpecHash": "TnVs6fvc2R3eWi/dXmv+gUpMB7KLg1lBOg5l8ki0OX0imr/YUzY7rc41OlFM+vNNtIsW01j612/3+EBpDOooiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
+  "projectFilePath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\MultiThreadTasks\\MultiThreading.Task6.Continuation\\MultiThreading.Task6.Continuation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
