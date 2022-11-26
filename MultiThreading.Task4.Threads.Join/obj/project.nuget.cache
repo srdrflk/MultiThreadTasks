@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvkyCjUg1tF3MVDyZe4G52gq2pAheD4GOBE6S3x9GrVbSIV5vpH1esGTVIcqrFPGrn22496xKQHQTkFg+5pHWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serdar_Filik\\Desktop\\EPAM__\\Mentorship\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Serdar_Filik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
