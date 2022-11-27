@@ -22,3 +22,16 @@ C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\01.multithreading.v.1.2\01.multi
 C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
 C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
 C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.genruntimeconfig.cache
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.deps.json
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.json
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.dev.json
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csproj.AssemblyReference.cache
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfoInputs.cache
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfo.cs
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+C:\Users\Serdar_Filik\Desktop\EPAM__\Mentorship\MultiThreadTasks\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.genruntimeconfig.cache
